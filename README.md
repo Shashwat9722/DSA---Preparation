@@ -14,10 +14,5 @@ This repository contains my Data Structures and Algorithms practice for placemen
 
 ## Progress
 
-### Day 1
-- Print Array
-- Maximum Element
-- Minimum Element
-- Sum of Array
-- Reverse Array
-- Linear Search
+Day 1 ✅ Arrays Basics
+Day 2 ✅ Binary Search
