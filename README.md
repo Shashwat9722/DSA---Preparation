@@ -21,3 +21,4 @@ This repository contains my Data Structures and Algorithms practice for placemen
 | Day 3 | STL Vector & Array Fundamentals | ✅ |
 | Day 4 | Two Pointers & STL Revision | ✅ |
 | Day 5 | Sliding Window (Introduction) | ✅ |
+| Day 6 | Hashing (unordered_map & unordered_set) | ✅ |
